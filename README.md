@@ -50,4 +50,4 @@
 [*] 🗂️ Чистая и организованная структура кода
 [/list]
 
-[center][size=16][b]🔗 Ссылка:[/b] [url=https://github.com/zolotarevxc/clickgame]https://github.com/zolotarevxc/clickgame[/url][/size][/center]
+[center][size=16][b]🔗 Ссылка:[/b] [url=https://github.com/zolotarevxc/clickgame]https://github.com/zolotarevxc/clickgame
